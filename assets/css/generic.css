@@ -1,0 +1,24 @@
+:root {
+	--blue: #223F84;
+	--crema: #FFD2B8;
+	--bold: 'Raleway';
+	--regular: 'Nunito';
+	--white: #fafafa;
+	--gray: #A4A0A0;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src: url('../fonts/Raleway-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src: url('../fonts/Nunito-Regular.ttf');
+}
